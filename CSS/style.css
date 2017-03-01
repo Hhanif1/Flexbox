@@ -53,7 +53,7 @@ font-size: 40px;}
 	flex-basis: 40%;
 }
 
-@media (min-width: 1000px) {
+@media (min-width: 900px) {
 
 .call-outs-container{
 	display: flex; 
