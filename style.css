@@ -19,7 +19,7 @@ ol{color: #FFFFFF}
 
 
 h1 {text-align: center;
-	font-size: 140px;
+	font-size: 150px;
 	color: white; }
 
 h2 { color: white; 
@@ -33,7 +33,8 @@ h0 { color: white;
 .main-column{ flex: 3;
 order: 1 ;}
 
-
+.sidebar-one{
+}
 
 
 h3 {text-align: center;
@@ -52,7 +53,7 @@ font-size: 40px;}
 	flex-basis: 40%;
 }
 
-@media (min-width: 900px) {
+@media (min-width: 1000px) {
 
 .call-outs-container{
 	display: flex; 
