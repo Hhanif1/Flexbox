@@ -26,9 +26,9 @@ h2 { color: white;
 	text-align: center;
 	font-size: 70px;}
 
-h0 { color: white; 
+h4 { color: white; 
 	text-align: center;
-	font-size: 35px;}	
+	font-size: 55px;}	
 
 .main-column{ flex: 3;
 order: 1 ;}
