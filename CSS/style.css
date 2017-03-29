@@ -65,12 +65,13 @@ order: 1 ;}
 {background-color: #ff0000;}
 
 .banner{
-	height: 400px;
+	height: 500px;
 	max-width: 700px;
 	margin: 40px auto 40px auto;
-background-image: url("https://www.haagshistorischmuseum.nl/files/2015-03/hga004018739.jpg"); 
+background-image: url("https://lh3.googleusercontent.com/PjknWNb1z8ix_y4buD--5DLLYIUzuHeqwLYq4X591cMNq8XQ-kwmEsA402_-FfDMxQsA4mD84k_KWXRis9npVIgj9jKBEYMnXg=w1920-h1080-rw-no"); 
 background-size: cover;
 display: flex;
+
 }
 
 .center-me{
@@ -80,3 +81,4 @@ display: flex;
 }
 
 
+//https://www.haagshistorischmuseum.nl/files/2015-03/hga004018739.jpg//
